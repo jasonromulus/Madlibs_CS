@@ -1,0 +1,10 @@
+noun = input("Write a noun ")
+noun2 = input("Write a noun ")
+funny = input('Write something funny ')
+funny2 = input('Write another funny thing ')
+adj = input('Write an adjective ')
+action = input('Write an action ')
+name = input('Write a name ')
+car = input('Write a car brand ')
+
+print('We were in the parking lot of a ' +noun+ 'in Key West,FL when ' +name+ 'told Kyle that ' +name+ 'was ' +funny+ '. ' +name+ ' figured I’d rather be out under ' +car+ 'as I announced the reason for all my ' +action+ ' and misery. ' +name+ 'said to him, Well ' +adj+'. Guess we’re having a ' +funny2+ '.')
